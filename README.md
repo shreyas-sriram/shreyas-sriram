@@ -4,4 +4,4 @@
 </p>
 
 ### GitHub Activity from All Accounts
-![test](https://npdt6zg2ga.execute-api.ap-south-1.amazonaws.com/dev/aggregate?username=shreyas-sriram&username=shreyas-mesh7&year=2020&theme=light)
+![gh-contributions](https://npdt6zg2ga.execute-api.ap-south-1.amazonaws.com/dev/aggregate?username=shreyas-sriram&username=shreyas-mesh7&year=2020&theme=light)
