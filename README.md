@@ -2,6 +2,3 @@
 <p align="center">
   <a href="http://shreyas-sriram.github.io">My Website</a>
 </p>
-
-### GitHub Activity from All Accounts
-![gh-contributions](https://npdt6zg2ga.execute-api.ap-south-1.amazonaws.com/dev/aggregate?username=shreyas-sriram&username=shreyas-mesh7&year=2020&theme=light)
